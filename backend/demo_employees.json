@@ -1,0 +1,82 @@
+[
+  {
+    "id": "e001",
+    "name": "Sarah Kowalski",
+    "role": "Cloud Architect (AWS)",
+    "skills": {"java": 5, "aws": 5, "k8s": 3},
+    "capacity_percent": 90,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e002",
+    "name": "Max Lehmann",
+    "role": "Fullstack Engineer (React)",
+    "skills": {"java": 4, "react": 5, "node": 4},
+    "capacity_percent": 15,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e003",
+    "name": "Lena Müller",
+    "role": "Data Scientist (RAG)",
+    "skills": {"python": 5, "rag": 5, "faiss": 4},
+    "capacity_percent": 80,
+    "compliance": ["gdpr_2024", "itsec_level_1"]
+  },
+  {
+    "id": "e004",
+    "name": "Tom Huber",
+    "role": "Backend Specialist (Java)",
+    "skills": {"java": 5, "spring": 5, "db": 4},
+    "capacity_percent": 95,
+    "compliance": ["itsec_level_2"]
+  },
+  {
+    "id": "e005",
+    "name": "Felix Berger",
+    "role": "UX/UI Designer",
+    "skills": {"react": 3, "css": 5, "ux": 5},
+    "capacity_percent": 70,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e006",
+    "name": "Laura Klein",
+    "role": "DevOps Engineer",
+    "skills": {"k8s": 5, "terraform": 4, "aws": 4},
+    "capacity_percent": 25,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e007",
+    "name": "Chris Weber",
+    "role": "Junior Java Developer",
+    "skills": {"java": 3, "spring": 2, "db": 2},
+    "capacity_percent": 100,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e008",
+    "name": "Nicole Richter",
+    "role": "Senior Cloud Consultant",
+    "skills": {"aws": 5, "azure": 4, "strategy": 5},
+    "capacity_percent": 60,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e009",
+    "name": "David Schulz",
+    "role": "Frontend Specialist (Angular)",
+    "skills": {"angular": 5, "ts": 4, "html": 5},
+    "capacity_percent": 50,
+    "compliance": ["gdpr_2024", "itsec_level_2"]
+  },
+  {
+    "id": "e010",
+    "name": "Maria Stein",
+    "role": "Security Specialist",
+    "skills": {"security": 5, "itsec_audit": 5, "gdpr": 5},
+    "capacity_percent": 100,
+    "compliance": ["itsec_level_1"]
+  }
+]
